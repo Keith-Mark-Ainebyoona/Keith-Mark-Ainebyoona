@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MuchubaTactics
+- 👀 Interested in C/C++ and python to a lesser extent.
+- 📫 https://t.me/MuchubaTactics
